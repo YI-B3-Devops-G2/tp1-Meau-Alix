@@ -1,4 +1,10 @@
 # yi-b3-devops-tp1
+#prérequis 
+virtual box version 6.0
+vagrant
+
+vagrant init peru/ubuntu-18.04-server-amd64
+
 #install de node js
 apt-get update -y
 sudo apt install curl -y
